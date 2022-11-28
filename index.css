@@ -1,0 +1,178 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    width:100vw;
+}
+
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  padding: 20px 20px 20px 20px;
+  height: 100px;
+}
+.udemy-logo {
+  width: 100px;
+  height: 100px;
+}
+
+.logo-categories-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 20%;
+  height: inherit;
+  align-items: center;
+  margin-left: -30px;
+}
+
+.nav-search {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+  margin-left: -60px;
+}
+.nav-search input {
+  width: 100%;
+  height: 55%;
+  border-radius: 48px;
+  padding-left: 60px;
+  font-size: x-large;
+  border-radius: 58px;
+  background-color: aliceblue;
+}
+
+.business-nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.business-nav ul li {
+  margin-right: 20px;
+}
+
+
+.login-signup {
+
+    height: inherit;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.login-signup button {
+  height: 55%;
+  width: 90px;
+  margin-left: 10px;
+}
+
+.login-signup button a {
+    text-decoration: none;
+    
+}
+
+
+.login{
+    background-color: white;
+    border: thin 1px;
+}
+
+
+.signup a {
+    background-color: black;
+    color: white;
+}
+.signup {
+    background-color: black;
+    color: white;
+}
+
+#ball{
+    width: 50px;
+    background-color: white;
+}
+
+/* nav design end */
+
+
+.first-section-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.first-section-container img{
+    width: 80%;
+    height: 400px;
+}
+
+/* second section start */
+
+
+
+/* .second-sec-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    height: 250px;
+    background-color: red;
+    width: 80%;
+    margin-left: 20px;
+    
+} */
+
+.second-sec-cont ul {
+   list-style: none;
+}
+
+
+/* second section end */
+
+
+/* main{
+   width: 100%;
+   height: 100%;
+    background-color: green;
+    
+} */
+
+/* third section start */
+
+.third-section{
+
+    width: 90%;
+    height: 50%;
+    background-color: blue;
+    border: thick  yellow 2px;
+}
+
+/* first section end */
+
+
+
+
+
+/* first section start */
+
+/* first section end */
+/* first section start */
+
+/* first section end */
